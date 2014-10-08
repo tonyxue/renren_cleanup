@@ -1,9 +1,7 @@
 // ==UserScript==
-// @name          人人网去广告 (Renren Cleanup)
-// @namespace     http://userstyles.org
-// @description	  简化人人网主页及其他页面，去除了包括广告，各种烦人的提示和多余的元素，简化了边栏。 2013-05-12
+// @name          RenRen Minimalization
+// @description   Minimalize the web interface of RenRen.com
 // @author        Tony Xue
-// @homepage      http://userstyles.org/styles/87253/renren-cleanup
 // @include       http://renren.com/*
 // @include       https://renren.com/*
 // @include       http://*.renren.com/*
